@@ -1,0 +1,21 @@
+{
+  "full_name": "Leo Sterling",
+  "name": "Leo",
+  "current_role": "Senior Urban Architect and Sustainable Design Consultant",
+  "location": "Indiana",
+  "email": "leo.sterlig@gmail.com",
+  "linkedin": "linkedin.com/in/LeoSterling",
+  "specialties": [
+    "Designing biophilic urban spaces",
+    "Restoring vintage woodworking tools",
+    "Cycling"
+  ],
+  "years_experience": 10,
+  "education": [
+    {
+      "degree": "Bachelor",
+      "institution": "University of Indiana",
+      "year": "2015"
+    }
+  ]
+}
