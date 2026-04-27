@@ -1,21 +1,22 @@
 {
-  "full_name": "Leo Sterling",
-  "name": "Leo",
-  "current_role": "Senior Urban Architect and Sustainable Design Consultant",
-  "location": "Indiana",
-  "email": "leo.sterlig@gmail.com",
-  "linkedin": "linkedin.com/in/LeoSterling",
+  "full_name": "Darren Jason Watkins Jr.",
+  "name": "IShowSpeed",
+  "current_role": "YouTube Streamer, Content Creator, and Music Artist",
+  "location": "Ohio, USA",
+  "email": "ishowspeed@gmail.com",
+  "linkedin": "N/A (Active on YouTube/Instagram/X)",
   "specialties": [
-    "Designing biophilic urban spaces",
-    "Restoring vintage woodworking tools",
-    "Cycling"
+    "High-energy live streaming",
+    "Football (Soccer) commentary and content",
+    "Music production and performance",
+    "Professional 'barking' and comedic outbursts"
   ],
-  "years_experience": 10,
+  "years_experience": 5,
   "education": [
     {
-      "degree": "Bachelor",
-      "institution": "University of Indiana",
-      "year": "2015"
+      "degree": "High School Diploma",
+      "institution": "Local Ohio High School",
+      "year": "2023"
     }
   ]
 }
